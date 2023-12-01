@@ -5,3 +5,8 @@
 [Dynamic memory allocation in C - malloc calloc realloc free](https://www.youtube.com/watch?v=xDVC3wKjS64)
 
 [Valgrind](https://valgrind.org/)
+
+## man or help:
+
+* malloc
+* free
