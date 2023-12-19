@@ -21,7 +21,8 @@ To run the Betty linter just with command betty <filename>:
 
 You can now type betty <filename> to run the Betty linter!
 
-```#!/bin/bash
+```
+#!/bin/bash
 # Simply a wrapper script to keep you from having to use betty-style
 # and betty-doc separately on every item.
 # Originally by Tim Britton (@wintermanc3r), multiargument added by
