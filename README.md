@@ -8,6 +8,8 @@
 
 * [Explain to anyone](https://fs.blog/feynman-learning-technique/)
 
+* Your code should use the Betty style. It will be checked using [betty-style.pl](https://github.com/alx-tools/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/alx-tools/Betty/blob/master/betty-doc.pl)
+
 ## Betty linter
 To run the Betty linter just with command betty <filename>:
 
