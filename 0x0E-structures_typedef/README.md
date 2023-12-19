@@ -1,5 +1,4 @@
 ![Uploading image.png…]()
-![image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/3/50af78a28a081e809856d4cdbde2d7ca9d4aa93d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231219T204332Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7a2b8f0ff364845392cbfd1ec12cf453945e849fce93bb50565ba7e6dff25dc0)
 
 ## General
 * What are structures, when, why and how to use them
