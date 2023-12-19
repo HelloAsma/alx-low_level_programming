@@ -14,3 +14,5 @@
 * [Multi-dimensional Arrays in C](https://www.tutorialspoint.com/cprogramming/c_multi_dimensional_arrays.htm)
 
 * [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
+
+*  Create a file that contains the password for the [crackme2](https://github.com/alx-tools/0x06.c) executable.
