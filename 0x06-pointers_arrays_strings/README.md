@@ -1,4 +1,4 @@
-![image](https://github.com/pixie-a/alx-low_level_programming/assets/101095081/380c3c78-3b7c-4701-abfe-b38c58b481c6)
+![image](https://github.com/pixie-a/alx-low_level_programming/assets/101095081/23f9be7e-5d3f-4e8d-b823-2f97c4b2cc6d)
 
 ## General
 * What are pointers and how to use them
