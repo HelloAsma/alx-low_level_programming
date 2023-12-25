@@ -8,6 +8,7 @@
 void sorted_list(shash_table_t *ht, shash_node_t *new_node)
 {
 	shash_node_t *spkg = ht->shead;
+
 	if (spkg == NULL)
 	{
 		ht->shead = ht->stail = new_node;
@@ -75,7 +76,7 @@ int shash_table_set(shash_table_t *ht, const char *key, const char *value)
 {
 	unsigned long int index = 0;
 	char *valuecopy, *keycopy;
-	shash_node_t  *pkg, *new_node;
+	shash_node_t *pkg, *new_node;
 
 	if (!ht || !key || !*key || !value)
 		return (0);
