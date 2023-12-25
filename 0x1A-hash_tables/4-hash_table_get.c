@@ -5,7 +5,7 @@
  * @key: key to retrive the value
  *
  * Return: the value associated with the element.
-           NULL - if the key cannot be found.
+ *         NULL - if the key cannot be found.
  */
 
 char *hash_table_get(const hash_table_t *ht, const char *key)
